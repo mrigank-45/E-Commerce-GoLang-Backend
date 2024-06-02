@@ -1,4 +1,4 @@
-##**Ecommerce With Golang **
+# Ecommerce Platform Backend With Golang
 
 ```bash
 # You can start the project with below commands
